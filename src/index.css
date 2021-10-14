@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.navbar {
+  background-color: #7f7e91;
+}
+.mainContainer {
+  padding-top: 5.5rem;
+}
+.page-footer {
+  background-color: #7f7e91 !important;
+}
+.same {
+  display: flex;
+  align-items: stretch;
+}
+img {
+  max-height: 182px;
+}
